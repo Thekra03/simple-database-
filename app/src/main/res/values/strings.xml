@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App2</string>
+    <string name="user_id">User ID</string>
+    <string name="gender">Gender</string>
+    <string name="message_title">Message Title</string>
+    <string name="message_body">Message Body</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="save_list_sqlite">Save to SQLite</string>
+    <string name="save_list_sp">Save to SharedPreferences</string>
+    <string name="todo">TODO: Add Description</string>
+
+</resources>
